@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj": {}
+    "c:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj": {
+    "c:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj",
+        "projectUniqueName": "c:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj",
         "projectName": "CursoEFCore",
-        "projectPath": "C:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj",
+        "projectPath": "c:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\CursoEFCore.csproj",
         "packagesPath": "C:\\Users\\tarci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\obj\\",
+        "outputPath": "c:\\Users\\tarci\\Documents\\Curso-Introducao-Entity-Framework-Core\\Curso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -26,7 +26,6 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +43,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
