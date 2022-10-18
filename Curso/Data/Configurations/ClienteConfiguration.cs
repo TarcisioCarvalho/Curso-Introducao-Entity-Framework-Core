@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using CursoEFCore.Domain;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+ 
 
 namespace CursoEFCore.Data.Configurations
 {
