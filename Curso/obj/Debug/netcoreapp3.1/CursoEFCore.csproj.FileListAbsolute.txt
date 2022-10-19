@@ -42,8 +42,11 @@ C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfoInputs.cache
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfo.cs
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CoreCompileInputs.cache
-C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CopyComplete
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.dll
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.pdb
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.genruntimeconfig.cache
 C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CopyComplete
+C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\tarci\Documents\Curso-Introducao-Entity-Framework-Core\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
